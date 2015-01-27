@@ -19,8 +19,4 @@ package org.gradle;
 public class ConcreteTest extends AbstractTest {
     public void alsoOk() {
     }
-
-    public void notOk() {
-        assert false;
-    }
 }
